@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "birthDate": "1990-05-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "birthDate": "1995-03-20"
+    },
+    {
+      "id": 3,
+      "name": "Alice Jones",
+      "email": "alice@example.com",
+      "birthDate": "1985-06-10"
+    },
+    {
+      "id": 4,
+      "name": "Bob Martin",
+      "email": "bob@example.com",
+      "birthDate": "1992-07-05"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie@example.com",
+      "birthDate": "1989-08-15"
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "email": "david@example.com",
+      "birthDate": "1993-09-25"
+    },
+    {
+      "id": 7,
+      "name": "Eva Garcia",
+      "email": "eva@example.com",
+      "birthDate": "1996-04-30"
+    },
+    {
+      "id": 8,
+      "name": "Frank Johnson",
+      "email": "frank@example.com",
+      "birthDate": "1987-12-18"
+    },
+    {
+      "id": 9,
+      "name": "Grace Lee",
+      "email": "grace@example.com",
+      "birthDate": "1991-02-22"
+    },
+    {
+      "id": 10,
+      "name": "Hannah White",
+      "email": "hannah@example.com",
+      "birthDate": "1986-11-14"
+    },
+    {
+      "id": 11,
+      "name": "Isaac Brown",
+      "email": "isaac@example.com",
+      "birthDate": "1997-07-01"
+    },
+    {
+      "id": 12,
+      "name": "Jennifer Davis",
+      "email": "jennifer@example.com",
+      "birthDate": "1984-10-08"
+    }
+  ]
+}
