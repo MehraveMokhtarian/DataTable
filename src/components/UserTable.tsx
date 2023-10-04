@@ -6,7 +6,11 @@ import { FilterMatchMode } from "primereact/api";
 
 const UserTable = () => {
   const { users } = useContext(UserContext);
-
+  /**
+   * this function calculates the age based on current time
+   * @param birthDate birthdate of the user
+   * @returns Age of the user
+   */
   const calculateAge = (birthDate: string): number => {
     const today = new Date();
     const birth = new Date(birthDate);
