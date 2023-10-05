@@ -39,7 +39,7 @@ const UserTable = () => {
   // Rendering the table
   return (
     <div style={{ 
-      maxWidth: "72rem + 36px", // account for the 12px on both sides
+      maxWidth: "74rem", // account for the 12px on both sides
       margin: "0 auto",
       marginTop: "12rem", // adjusted for the padding on the new div
       borderRadius: "8px", // adjusted for the new div

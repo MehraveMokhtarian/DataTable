@@ -1,5 +1,5 @@
 # React DataTable
-
+![Alt text](image.png)
 ## Introduction
 
 This project is a single-page application that fetches and displays user data in a table format. Users can sort by columns and paginate the results. The project is constructed using React with TypeScript and leverages PrimeReact for UI components. Testing is accomplished with the Jest library.
